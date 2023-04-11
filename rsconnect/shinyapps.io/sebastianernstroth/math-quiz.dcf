@@ -5,7 +5,7 @@ account: sebastianernstroth
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 8816062
-bundleId: 7074369
+bundleId: 7074513
 url: https://sebastianernstroth.shinyapps.io/math-quiz/
-when: 1681197626.19665
-lastSyncTime: 1681197626.19666
+when: 1681200478.5493
+lastSyncTime: 1681200478.54931
