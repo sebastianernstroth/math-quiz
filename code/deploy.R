@@ -12,4 +12,3 @@ recordDir <- root$find_file()
 deployApp(appDir = appDir,
           appName = appName,
           recordDir = recordDir)
-
